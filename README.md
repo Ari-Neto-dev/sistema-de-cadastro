@@ -2,5 +2,5 @@
 > Status do projeto em desenvolvimento
 Para rodar esse projeto na sua máquina ,por favor digite:
 ...
-nm install react
+node app.js
 ...
